@@ -1,0 +1,32 @@
+.My_Films{
+    margin-top: 24px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.My_Films h1{
+    margin-bottom: 14px;
+}
+.My_Films span {
+    font-size: 18px;
+}
+.My_Films ul{
+        width: 720px; 
+}
+.My_Films ul li {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 14px;
+}
+.My_Films div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.My_Films div a {
+    text-decoration: none;
+    color: #116feb;
+    margin-right: 14px;
+}
